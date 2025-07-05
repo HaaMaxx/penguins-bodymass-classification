@@ -48,3 +48,31 @@ Details available in the [📘 Report](./penguins_report.pdf) and [🎯 Slides](
 
 ## 📂 Project Structure
 
+├── penguins_report.pdf # Final report
+├── penguins_presentation.pptx # Slides used in oral presentation
+├── .gitignore / LICENSE / README.md
+
+---
+
+## 📚 Tools & Languages
+
+- R, Latex
+- `lme4`, `nnet`, `ggplot2`, `caret`
+- RMarkdown (for exploratory analysis)
+
+---
+
+## ✍️ Author
+
+**Xinyue Ha**  
+MS in Statistics, Washington University in St. Louis  
+🔗 [LinkedIn](www.linkedin.com/in/xinyue-ha-a0955b351) | 📧 xinyue.ha0236@gmail.com
+
+---
+
+## 📎 References
+
+- [palmerpenguins R package](https://allisonhorst.github.io/palmerpenguins/)
+- Gorman et al. (2014). *Ecological Sexual Dimorphism and its Implications*
+
+
