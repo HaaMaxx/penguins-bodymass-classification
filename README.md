@@ -1,8 +1,4 @@
 # 🐧 Penguin Body Mass Prediction & Species Classification  
-![R](https://img.shields.io/badge/R-Used-blue)  
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-
----
 
 This project analyzes the [`palmerpenguins`](https://allisonhorst.github.io/palmerpenguins/) dataset to achieve two goals:
 
@@ -65,7 +61,7 @@ Details available in the [📘 Report](./penguins_report.pdf) and [🎯 Slides](
 ## ✍️ Author
 
 **Xinyue Ha**  
-MS in Statistics, Washington University in St. Louis  
+MA in Statistics, Washington University in St. Louis  
 🔗 [LinkedIn](www.linkedin.com/in/xinyue-ha-a0955b351) | 📧 xinyue.ha0236@gmail.com
 
 ---
