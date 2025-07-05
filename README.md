@@ -1,4 +1,8 @@
-# 🐧 Penguin Body Mass Prediction & Species Classification
+# 🐧 Penguin Body Mass Prediction & Species Classification  
+![R](https://img.shields.io/badge/R-Used-blue)  
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+
+---
 
 This project analyzes the [`palmerpenguins`](https://allisonhorst.github.io/palmerpenguins/) dataset to achieve two goals:
 
